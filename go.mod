@@ -1,4 +1,4 @@
-module github.com/emer/leabra
+module github.com/rgobbel/leabra
 
 go 1.14
 
